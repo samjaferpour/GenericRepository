@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Core\GenericRepository.Contract\GenericRepository.Contract.csproj" />
     <ProjectReference Include="..\..\Core\GenericRepository.Domain\GenericRepository.Domain.csproj" />
   </ItemGroup>
 
