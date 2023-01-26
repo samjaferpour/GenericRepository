@@ -13,7 +13,7 @@ namespace GenericRepository.Domain.Entities
         public TKey Id { get; set; }
     }
 
-    public class BaseEntity : BaseEntity<Guid>
+    public class BaseEntity : BaseEntity<int>
     {
     }
 }

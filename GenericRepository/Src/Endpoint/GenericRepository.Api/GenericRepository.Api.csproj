@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Core\GenericRepository.ApplicationService\GenericRepository.ApplicationService.csproj" />
     <ProjectReference Include="..\..\Infrastructure\GenericRepository.Persistence\GenericRepository.Persistence.csproj" />
   </ItemGroup>
 
